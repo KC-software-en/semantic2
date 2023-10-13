@@ -62,7 +62,7 @@ The significance of this project lies in its ability to enhance the user experie
 
 ## Use the Command Prompt
 1. Check that Docker desktop was successfully installed: `docker run hello-world`
-1. Build the docker image: `docker build -t movie_recom .` 
+1. Build the docker image: `docker build -t movie_recom ./` 
 1. Run the docker image: `docker run movie_recom`
 1. Deactivate the Virtual Environment: `deactivate`
 
